@@ -3,6 +3,7 @@
 This repository contains information about Genogun – a macOS platform shooter game, that blends platforming excitement with the fascinating world of genetics and molecular biology.
 <br>
 <p align="center"><img width="950" alt="Screenshot 2025-04-11 at 14 29 15" src="https://github.com/user-attachments/assets/fd94a31a-a73a-4e53-b988-dfda48dd12de" /></p>
+<p align="center"><img width="950" alt="Screenshot 2025-04-11 at 14 29 15" src="https://github.com/user-attachments/assets/3a1562b7-28f9-4316-bb33-542de27acb19" /></p>
 <br>
 
 ## About
