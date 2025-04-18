@@ -1,14 +1,12 @@
 # Genogun
 
-This repository contains information about Genogun – an immersive, action-packed mobile game that blends platforming excitement with the fascinating world of genetics and molecular biology.
+This repository contains information about Genogun – a macOS platform shooter game, that blends platforming excitement with the fascinating world of genetics and molecular biology.
 <br>
 <br>
 
 ## About
 Genogun: Defend Your Cells, Destroy Viruses, and Master Genetic Combinations!
 In Genogun, you play as Rybo, a heroic ribosome fighting to defend the cell from relentless viral attacks. Armed with the Genogun, your mission is to select the right genetic combinations — AA, Aa, or aa — to destroy viruses based on their specific genetic weaknesses.
-
-Set in a beautifully animated microscopic world, Genogun combines educational gameplay with fast-paced action, teaching players the basics of genetics while challenging their reflexes and memory.
 <br>
 <br>
 
@@ -21,9 +19,13 @@ Set in a beautifully animated microscopic world, Genogun combines educational ga
 <br>
 
 ## Development Skills
-- SpriteKit
-- Game Design
 - ECS Architecture
+- SpriteKit
+- GameKit
+- GameplayKit
+- GameController
+- AVFoundation
+- Game Design
 <br>
 <br>
 
