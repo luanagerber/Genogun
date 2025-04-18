@@ -13,16 +13,17 @@ Set in a beautifully animated microscopic world, Genogun combines educational ga
 <br>
 
 ## Tools
-Xcode
-Figma
+- Xcode
+- Figma
+- GarageBand
+- Audacity
 <br>
 <br>
 
 ## Development Skills
-SwiftUI
-SpriteKit
-Game Design
-Educational Game Mechanics
+- SpriteKit
+- Game Design
+- ECS Architecture
 <br>
 <br>
 
