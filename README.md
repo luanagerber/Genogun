@@ -7,7 +7,9 @@ This repository contains information about Genogun – a macOS platform shooter 
 
 ## About
 Genogun: Defend Your Cells, Destroy Viruses, and Master Genetic Combinations!
-In Genogun, you play as Rybo, a heroic ribosome fighting to defend the cell from relentless viral attacks. Armed with the Genogun, your mission is to select the right genetic combinations — AA, Aa, or aa — to destroy viruses based on their specific genetic weaknesses.
+In Genogun, you play as Rybo, a heroic ribosome fighting to defend the cell from relentless viral attacks. Armed with the Genogun, your mission is to select the right genetic combinations — AA, Aa, or aa — to destroy viruses based on their specific genetic weaknesses.<br>
+<br>
+<a href="https://apps.apple.com/br/app/genogun/id6743355719?l=en-GB&mt=12">Download Genogun on App Store now!</a>
 <br>
 <br>
 
@@ -38,10 +40,11 @@ In Genogun, you play as Rybo, a heroic ribosome fighting to defend the cell from
 <br>
 
 ## How to Play
-Control Rybo, your ribosome hero, using intuitive platforming controls.
-Analyze incoming viruses and identify their genetic code.
-Select the correct gene pairing (AA, Aa, or aa) to neutralize each threat.
-Survive as many waves as you can!
+1. <a href="https://apps.apple.com/br/app/genogun/id6743355719?l=en-GB&mt=12">Download Genogun on App Store now!</a>
+2. Control Rybo, your ribosome hero, using intuitive platforming controls.
+3. Analyze incoming viruses and identify their genetic code.
+4. Select the correct gene pairing (AA, Aa, or aa) to neutralize each threat.
+5. Survive as many waves as you can!
 <br>
 <br>
 
