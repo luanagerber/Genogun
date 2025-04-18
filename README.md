@@ -57,11 +57,5 @@ In Genogun, you play as Rybo, a heroic ribosome fighting to defend the cell from
 <br>
 
 ## Authors
-
-### Development Team
-Luana Gerber
-Jaide Zardin
-Franklin Neto
-<br>
-### Design Team
-Taynara Vieira
+**Design:** Taynara Vieira<br>
+**Development:** Franklin Neto, Jaide Zardin and Luana Gerber
